@@ -4,4 +4,4 @@ class Log extends BaseClass{
     this.image = loadImage("sprites/wood2.png");
     Matter.Body.setAngle(this.body, angle);
   }
-}
+} 
